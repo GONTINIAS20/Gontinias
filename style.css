@@ -1,0 +1,21 @@
+.form-1{
+	 width: 300px;
+  padding: 12px;
+  border:none; 
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  margin-left: 500px;
+}
+body{
+	background-image: url(bank.jpg);
+}
+.button1{
+	background-color:skyblue;
+	margin-left: 500px;
+	height: 60px;
+	width: 300px;
+}
+
+
